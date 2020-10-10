@@ -1,4 +1,4 @@
-package com.smilepy.javadance;
+package com.smilepy.javadance.util;
 
 import junit.framework.TestCase;
 
