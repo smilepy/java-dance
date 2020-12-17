@@ -19,7 +19,6 @@ public class ArrayUtilsTest extends TestCase {
         int c = 4;
         int d = (c >> 1);
         System.out.println(String.format("d:%d", d));
-        Map<String,String> map=new HashMap<>();
         return new ArrayList<Integer>(){{add(new Integer(1));}};
     }
 }
